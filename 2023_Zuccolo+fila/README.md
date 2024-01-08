@@ -8,6 +8,7 @@ All the technical aspects of audio data analysis will be explained and examined,
 
 ## data
 ![Mapping - Audio features to graphical feedback](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/mapping-audiofeature2graphic.png)  
+**Mapping - Audio features to graphical feedback**  
 
 __link vowels-colors__  
 [a] ⇒ rosso;  
@@ -17,7 +18,10 @@ __link vowels-colors__
 [u] ⇒ grigio  
 
 ![Flowchart - Audio feature extraction to graphical feedback](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/data/flowchart-audiofeature2graphic.png)  
+**Flowchart - Audio feature extraction to graphical feedback**  
 ![Linear Predictive Coding (LPC) used vowel formants](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/data/instruction-formants-vowel.png)
+**Linear Predictive Coding (LPC) used vowel formants**  
 ## experience
-![Soundrise 2.0 new interface with three js](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/new%20interface.png)  
+![Soundrise 2.0 Web Application - new interface in ReactJs](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/new%20interface.png)  
+**Soundrise 2.0 Web Application - new interface In ReactJs**  
 [DEMO Video](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/soundrise2.0-demo.mp4)

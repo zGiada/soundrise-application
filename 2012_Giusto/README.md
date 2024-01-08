@@ -8,8 +8,10 @@ Nella prima parte del secondo capitolo viene presentata l’idea alla base del p
 ## bit
 
 ## data
-![Flowchart - Audio feature extraction](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/flowchart-audiofeatureextraction.png)  
+![Flowchart - Audio feature extraction](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/flowchart-audiofeatureextraction.png) 
+**Flowchart - Audio feature extraction**  
 ![Mapping - Audio features to graphical feedback](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/mapping-audiofeature2graphic.png)  
+**Mapping - Audio features to graphical feedback**  
 
 __link vowels-colors__  
 [a] ⇒ rosso;  
@@ -20,8 +22,13 @@ __link vowels-colors__
 
 ## experience
 ![SoundRise PD patch](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/contenuto%20della%20patch%20Sounrise%20pd.png)  
+**SoundRise PD patch**  
 ![SoundRise Control Console](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/console%20di%20controllo%20di%20SounRise.png)  
+**SoundRise Control Console**
 ![A PC running soundrise](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/SoundRise%20in%20esecuzione%20su%20un%20PC.png)  
+**A PC running soundrise**
 ![SoundRise grphical apprence 1](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/esempio%20di%20schermata%20della%20finestra%20grafica%20a.png)  
+**SoundRise grphical apprence 1**  
 ![SoundRise grphical apprence 2](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/esempio%20di%20schermata%20della%20finestra%20grafica%20b.png)
+**SoundRise grphical apprence 2**  
 
