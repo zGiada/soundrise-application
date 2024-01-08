@@ -11,12 +11,12 @@ Nella prima parte del secondo capitolo viene presentata l’idea alla base del p
 ![Flowchart - Audio feature extraction](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/flowchart-audiofeatureextraction.png)  
 ![Mapping - Audio features to graphical feedback](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/mapping-audiofeature2graphic.png)  
 
-__link vowels-colors__
-[a] ⇒ rosso;
-[O] ⇒ arancione; 
-[E] ⇒ verde;
-[i] ⇒ blu;
-[u] ⇒ grigio
+__link vowels-colors__  
+[a] ⇒ rosso;  
+[O] ⇒ arancione;   
+[E] ⇒ verde;  
+[i] ⇒ blu;  
+[u] ⇒ grigio  
 
 ## experience
 ![SoundRise PD patch](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/contenuto%20della%20patch%20Sounrise%20pd.png)  

@@ -20,7 +20,7 @@ Infine nel quarto capitolo vengono esposti i risultati di un test sull’usabili
 ![Flowchart - Audio feature extraction](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/flowchart-audiofeatureextraction.png)  
 ![Mapping - Audio features to graphical feedback](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/mapping-audiofeature2graphic.png)  
 
-__link vowels-colors__
+__link vowels-colors__  
 [a] ⇒ rosso;  
 [O] ⇒ arancione;   
 [E] ⇒ verde;  
