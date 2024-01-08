@@ -9,7 +9,7 @@ Quindi vengono presentate le tecnologie utilizzate per lo sviluppo del nuovo Sou
 ## bit
 
 ## data
-![Soundrise 2.0 - sun behaviour](https://github.com/zGiada/soundrise-application/blob/main/2012_Turetta/data/schema-sunbehaviour.png)  
+![Soundrise 2.0 - sun behaviour](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/data/schema-sunbehaviour.png)  
 
 ## experience
 ![SoundRise PD patch](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia.png)  
