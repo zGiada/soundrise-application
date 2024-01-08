@@ -23,9 +23,9 @@ __link vowels-colors__
 ## experience
 **SoundRise PD patch**  
 ![SoundRise PD patch](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/contenuto%20della%20patch%20Sounrise%20pd.png)  
-**SoundRise Control Console**
+**SoundRise Control Console**  
 ![SoundRise Control Console](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/console%20di%20controllo%20di%20SounRise.png)  
-**A PC running soundrise**
+**A PC running soundrise**  
 ![A PC running soundrise](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/SoundRise%20in%20esecuzione%20su%20un%20PC.png)  
 **SoundRise grphical apprence 1**  
 ![SoundRise grphical apprence 1](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/experience/esempio%20di%20schermata%20della%20finestra%20grafica%20a.png)  

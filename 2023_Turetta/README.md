@@ -13,7 +13,7 @@ Quindi vengono presentate le tecnologie utilizzate per lo sviluppo del nuovo Sou
 ![Soundrise 2.0 - sun behaviour](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/data/schema-sunbehaviour.png)  
 
 ## experience
-**Soundrise 2.0 new interface with Three.js**
+**Soundrise 2.0 new interface with Three.js**  
 ![Soundrise 2.0 new interface with three js](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia.png)  
 **Soundrise 2.0 new interface with the implementation of dark envirnment when the sun is behind the hills (low pitch)**  
 ![Soundrise 2.0 new interface with the implementation of a dark envirnment when the sun is behind the hills](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20buio.png)  
