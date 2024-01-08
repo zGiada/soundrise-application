@@ -20,4 +20,4 @@ __link vowels-colors__
 ![Linear Predictive Coding (LPC) used vowel formants](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/data/instruction-formants-vowel.png)
 ## experience
 ![Soundrise 2.0 new interface with three js](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/new%20interface.png)  
-[![Watch the video](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/soundrise2.0-demo.mp4)](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/soundrise2.0-demo.mp4)  
+[DEMO Video](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/soundrise2.0-demo.mp4)
