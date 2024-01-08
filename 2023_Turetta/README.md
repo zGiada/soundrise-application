@@ -12,8 +12,8 @@ Quindi vengono presentate le tecnologie utilizzate per lo sviluppo del nuovo Sou
 ![Soundrise 2.0 - sun behaviour](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/data/schema-sunbehaviour.png)  
 
 ## experience
-![SoundRise PD patch](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia.png)  
-![SoundRise Control Console](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20buio.png)  
-![A PC running soundrise](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20cielo%20stellato.png)  
-![SoundRise grphical apprence 1](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/threejs.png)  
-![SoundRise grphical apprence 2](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/blender.png)
+![Soundrise 2.0 new interface with three js](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia.png)  
+![Soundrise 2.0 new interface with the implementation of a dark envirnment when the sun is behind the hills](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20buio.png)  
+![Soundrise 2.0 the implementation of the stars with js](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20cielo%20stellato.png)  
+![A different perspective of the three.js soundrise](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/threejs.png)  
+![The soundrise's sun in Blender](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/blender.png)
