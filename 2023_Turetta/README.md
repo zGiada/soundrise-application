@@ -9,17 +9,17 @@ Quindi vengono presentate le tecnologie utilizzate per lo sviluppo del nuovo Sou
 ## bit
 
 ## data
-![Soundrise 2.0 - sun behaviour](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/data/schema-sunbehaviour.png)  
 **Soundrise 2.0 - sun behaviour**  
+![Soundrise 2.0 - sun behaviour](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/data/schema-sunbehaviour.png)  
 
 ## experience
-![Soundrise 2.0 new interface with three js](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia.png)  
 **Soundrise 2.0 new interface with Three.js**
-![Soundrise 2.0 new interface with the implementation of a dark envirnment when the sun is behind the hills](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20buio.png)  
+![Soundrise 2.0 new interface with three js](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia.png)  
 **Soundrise 2.0 new interface with the implementation of dark envirnment when the sun is behind the hills (low pitch)**  
-![Soundrise 2.0 the implementation of the stars with js](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20cielo%20stellato.png)  
+![Soundrise 2.0 new interface with the implementation of a dark envirnment when the sun is behind the hills](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20buio.png)  
 **Soundrise 2.0 - the stars with Three.js**  
-![A different perspective of the three.js soundrise](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/threejs.png)  
+![Soundrise 2.0 the implementation of the stars with js](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/nuova%20interfaccia%20-%20cielo%20stellato.png)  
 **A different perspective of the Three.js soundrise**  
-![The soundrise's sun in Blender](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/blender.png)
+![A different perspective of the three.js soundrise](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/threejs.png)  
 **The Soundrise's sun in Blender**  
+![The soundrise's sun in Blender](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/experience/blender.png)

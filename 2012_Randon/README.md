@@ -17,10 +17,10 @@ Infine nel quarto capitolo vengono esposti i risultati di un test sull’usabili
 [SoundRise C++ Source Code](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/bit/Randon.zip)
 
 ## data
-![Flowchart - Audio feature extraction](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/flowchart-audiofeatureextraction.png)  
 **Flowchart - Audio feature extraction**  
-![Mapping - Audio features to graphical feedback](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/mapping-audiofeature2graphic.png)  
+![Flowchart - Audio feature extraction](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/flowchart-audiofeatureextraction.png)  
 **Mapping - Audio features to graphical feedback**  
+![Mapping - Audio features to graphical feedback](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/data/mapping-audiofeature2graphic.png)  
 
 __link vowels-colors__  
 [a] ⇒ rosso;  
@@ -30,10 +30,10 @@ __link vowels-colors__
 [u] ⇒ grigio  
 
 ## experience
-![SoundRise Interface A](https://github.com/zGiada/soundrise-application/blob/main/2012_Randon/experience/interfaccia%20a.png)  
 **SoundRise Interface A**  
-![SoundRise Interface B](https://github.com/zGiada/soundrise-application/blob/main/2012_Randon/experience/interfaccia%20b.png)  
+![SoundRise Interface A](https://github.com/zGiada/soundrise-application/blob/main/2012_Randon/experience/interfaccia%20a.png)  
 **SoundRise Interface B**  
-![Evaluation of the application](https://github.com/zGiada/soundrise-application/blob/main/2012_Randon/experience/validazione%20applicazione.png)  
+![SoundRise Interface B](https://github.com/zGiada/soundrise-application/blob/main/2012_Randon/experience/interfaccia%20b.png)  
 **Evaluation of the application**  
+![Evaluation of the application](https://github.com/zGiada/soundrise-application/blob/main/2012_Randon/experience/validazione%20applicazione.png)  
 
