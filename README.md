@@ -13,8 +13,8 @@ The repository follows the guideline of the _Multilevel Dynamic Preservation_ (M
 
 
 ## DPOs
-- 2012 __Giusto__
-- 2012 __Randon__
-- 2023 __Turetta__
-- 2023 __Zuccolo__+__Fila__
+- 2012 [__Giusto__](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/README.md)
+- 2012 [__Randon__](https://github.com/zGiada/soundrise-application/blob/main/2012_Randon/README.md)
+- 2023 [__Turetta__](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/README.md)
+- 2023 [__Zuccolo__+__Fila__](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/README.md)
 
